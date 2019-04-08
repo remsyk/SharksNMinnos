@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\card_text_color.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\bb61bdb4b08385137f724b07af57f4b3c74e5a2b\\output\\res\\color\\card_text_color.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\c3b18bbd2808ee989e828d5be7571f60c50cf794\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\card_grey_text_color.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\bb61bdb4b08385137f724b07af57f4b3c74e5a2b\\output\\res\\color\\card_grey_text_color.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\c3b18bbd2808ee989e828d5be7571f60c50cf794\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\circular_button.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\bb61bdb4b08385137f724b07af57f4b3c74e5a2b\\output\\res\\color\\circular_button.xml"
+    }
+]

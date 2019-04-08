@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:2:120-162
+		INJECTED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:2:94-119
+		INJECTED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:2:70-93
+		INJECTED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:3:5-79
+	android:name
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:3:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:7:22-63
+uses-sdk
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:9:5-73
+MERGED from [com.android.support:design:25.2.0] C:\Users\i77ki\.android\build-cache\c3b18bbd2808ee989e828d5be7571f60c50cf794\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\i77ki\.android\build-cache\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\i77ki\.android\build-cache\79ccde0294c6206f0eeca20577c4d8f606ae99aa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\i77ki\.android\build-cache\709aaf8d73a2131297ee9b3dc59e03bfef5e41c0\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\i77ki\.android\build-cache\1adab3d0d77f79581216d7d14e0a120defabfa4c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.support:wearable:2.0.0] C:\Users\i77ki\.android\build-cache\bb61bdb4b08385137f724b07af57f4b3c74e5a2b\output\AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:percent:23.0.1] C:\Users\i77ki\.android\build-cache\b0606b4a9a329fb65ba79ebbfdb4d1116f61f0e6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\i77ki\.android\build-cache\19317821ed96426a4d8740b560e363063d9ac1b5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\i77ki\.android\build-cache\c2b0ff40ba7b94a276664582db20cbf61aa175d1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\i77ki\.android\build-cache\92ac8fb54427fdde2537831efb5ed3fd6d19583c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\i77ki\.android\build-cache\26ff6f1a24c6ff73129f5d4206566bf1f93d09dd\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\i77ki\.android\build-cache\e3afb9813b23146d72ab3da0a3595fc263b183d7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\i77ki\.android\build-cache\4f1ac6a8f985c6b5a2972102402ea00f4d4d578b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\i77ki\.android\build-cache\473c94b3953f12e3195710ad3877c4bafda10760\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\i77ki\.android\build-cache\c3b18bbd2808ee989e828d5be7571f60c50cf794\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:9:42-71
+		INJECTED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:9:15-41
+		INJECTED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:10:5-17:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\i77ki\.android\build-cache\c3b18bbd2808ee989e828d5be7571f60c50cf794\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\i77ki\.android\build-cache\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\i77ki\.android\build-cache\79ccde0294c6206f0eeca20577c4d8f606ae99aa\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\i77ki\.android\build-cache\709aaf8d73a2131297ee9b3dc59e03bfef5e41c0\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\i77ki\.android\build-cache\1adab3d0d77f79581216d7d14e0a120defabfa4c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.support:wearable:2.0.0] C:\Users\i77ki\.android\build-cache\bb61bdb4b08385137f724b07af57f4b3c74e5a2b\output\AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:percent:23.0.1] C:\Users\i77ki\.android\build-cache\b0606b4a9a329fb65ba79ebbfdb4d1116f61f0e6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\i77ki\.android\build-cache\19317821ed96426a4d8740b560e363063d9ac1b5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\i77ki\.android\build-cache\c2b0ff40ba7b94a276664582db20cbf61aa175d1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\i77ki\.android\build-cache\92ac8fb54427fdde2537831efb5ed3fd6d19583c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\i77ki\.android\build-cache\26ff6f1a24c6ff73129f5d4206566bf1f93d09dd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\i77ki\.android\build-cache\4f1ac6a8f985c6b5a2972102402ea00f4d4d578b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\i77ki\.android\build-cache\473c94b3953f12e3195710ad3877c4bafda10760\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:10:48-76
+	android:icon
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:10:18-47
+activity#processing.test.sharks_n_minnows.MainActivity
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:11:9-16:20
+	android:theme
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:11:80-147
+	android:name
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:11:19-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from D:\Documents\Processing\skeleton_fish\android\app\src\main\AndroidManifest.xml:14:27-74

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Processing\skeleton_fish\android\app\libs\processing-core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c88da33bc2c08eb0a88c440187a764e25ef805ca">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\processing-core_dfd97f8dd70be2b84789585af59c64b485dc5364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\bb61bdb4b08385137f724b07af57f4b3c74e5a2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4d699dd197929286d19b015f4c142b8360f2137">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_4a82d00825c24206954c9929561224eaa1cd2e1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_93e3453584901731da713d673fadf618411a574f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ee5add9ab9838589cd3841855856b63b7d56326d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\92ac8fb54427fdde2537831efb5ed3fd6d19583c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_ac7de7a289ebf1c1a9e24edca81324a825629bb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\473c94b3953f12e3195710ad3877c4bafda10760\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_36e481487fbcf20fac3ea06a78343235c092ad14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\26ff6f1a24c6ff73129f5d4206566bf1f93d09dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_7232c78168a7c804938ebbcbcdca1a11990decaf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25bb291ec62a6ca68735a3bbedbc43e68aa5084e">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6f9c66b00c1ef326a232152808b87dedd299e52d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\Processing\skeleton_fish\android\app\libs\processing-core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c88da33bc2c08eb0a88c440187a764e25ef805ca">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\transforms\dex\debug\folders\1000\2\processing-core_dfd97f8dd70be2b84789585af59c64b485dc5364\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\709aaf8d73a2131297ee9b3dc59e03bfef5e41c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_7508da0a4f44c907751d3ba2cf569e012ad216e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\4f1ac6a8f985c6b5a2972102402ea00f4d4d578b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_3ea7f8468e8a20ab16e718bcc0f7a146ccfd2476.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\c3b18bbd2808ee989e828d5be7571f60c50cf794\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_4da756119ddc158c4b50b8c22f29fec25cbf4fd9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\Processing\skeleton_fish\android\app\libs\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\transforms\dex\debug\folders\1000\2\support-annotations-25.2.0_16db9b68b10c1f35f989a257aff2014170a5c758\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Processing\skeleton_fish\android\app\libs\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_16db9b68b10c1f35f989a257aff2014170a5c758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\c2b0ff40ba7b94a276664582db20cbf61aa175d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_4cb7b0c2c97be7f677a83388724468a1f4d053a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\b0606b4a9a329fb65ba79ebbfdb4d1116f61f0e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddfbb68753c7b1222ffb7af97bfd9ecf413aba7">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_56d731f94e68113ce2aacace10337355a53472b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\1adab3d0d77f79581216d7d14e0a120defabfa4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_b03d4ca8a86d7189e8f72cd9a8d033e102d93522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\79ccde0294c6206f0eeca20577c4d8f606ae99aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_17c16afbe4704e45a1f66c52eafa52622f35ba83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\e3afb9813b23146d72ab3da0a3595fc263b183d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_4daa50afdc3a3e31b7163df629c73b24ac391262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\i77ki\.android\build-cache\19317821ed96426a4d8740b560e363063d9ac1b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Documents\Processing\skeleton_fish\android\app\build\intermediates\pre-dexed\debug\classes_f9394b30cc0e3553631a974eb6051b6aa357aee2.jar" />
+    </item>
+
+</items>

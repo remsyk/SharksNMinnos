@@ -1,0 +1,4 @@
+#Mon Sep 11 19:31:45 EDT 2017
+base.0=D\:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=D\:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex

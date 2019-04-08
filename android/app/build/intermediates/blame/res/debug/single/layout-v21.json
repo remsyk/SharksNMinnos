@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\overlay_confirmation.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\bb61bdb4b08385137f724b07af57f4b3c74e5a2b\\output\\res\\layout-v21\\overlay_confirmation.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\accept_deny_dialog.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\bb61bdb4b08385137f724b07af57f4b3c74e5a2b\\output\\res\\layout-v21\\accept_deny_dialog.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\dismiss_overlay.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\bb61bdb4b08385137f724b07af57f4b3c74e5a2b\\output\\res\\layout-v21\\dismiss_overlay.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\i77ki\\.android\\build-cache\\202b570a43fc23c3d9474f53dd2e5244f1de5ec8\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

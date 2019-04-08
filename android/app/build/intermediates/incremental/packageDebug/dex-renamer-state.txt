@@ -1,0 +1,7 @@
+#Sun Oct 01 19:20:08 EDT 2017
+base.0=D\:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ee5add9ab9838589cd3841855856b63b7d56326d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6f9c66b00c1ef326a232152808b87dedd299e52d\\classes.dex
+base.1=D\:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6f9c66b00c1ef326a232152808b87dedd299e52d
+file.0=D\:\\Documents\\Processing\\skeleton_fish\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ee5add9ab9838589cd3841855856b63b7d56326d\\classes.dex
